@@ -1,0 +1,4 @@
+url=jdbc:mysql://222.28.39.85:3306/recogdb
+user=rwp
+password=tmt123
+driverClass=com.mysql.jdbc.Driver
